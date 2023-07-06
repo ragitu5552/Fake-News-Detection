@@ -1,1 +1,1 @@
-# Fake-News-Detection
+This repository contains a Python codebase for detecting fake news. The purpose of this project is to develop an automated system that can accurately identify fake news articles and distinguish them from genuine ones.
